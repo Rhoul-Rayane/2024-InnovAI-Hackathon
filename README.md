@@ -6,7 +6,7 @@
 
 Every year, road accidents claim millions of lives globally and leave countless families devastated. In Morocco alone, over 4,000 people die annually, with more than 100,000 others sustaining serious injuries, according to the National Road Safety Agency (NARSA). Behind these statistics are human lives—parents, children, and friends—whose loss profoundly impacts their families and communities. Tragically, many of these deaths are preventable if only help could arrive in time. The challenge lies not only in the occurrence of accidents but also in the critical delay in emergency response. Often, precious minutes are wasted locating victims and alerting emergency services. This delay, though seemingly small, can make the difference between life and death, especially for those suffering from severe internal injuries. Adding to the tragedy is the silent threat of driver fatigue, which is responsible for a significant proportion of accidents, particularly on long routes. Exhausted drivers fail to recognize the onset of drowsiness, leading to fatal crashes. Despite advancements in automotive safety, there remains a gap in proactive and immediate solutions addressing both accident detection and fatigue prevention.
 
-![accident stat](accident_statistics.png)
+![accident stat](SAFETY_DRIVING/accident_statistics.png)
 
 
 [narsa accident stat](https://www.narsa.ma/sites/default/files/2023-10/Recueil%20des%20accidents%20-%202022_231020_140050.pdf)
@@ -20,7 +20,7 @@ Safety Driving directly addresses two major road safety challenges: delayed emer
 - **Economic Impact:** Lower accident rates will reduce medical expenses, insurance claims, and vehicle damage costs, benefiting both individuals and industries.
 - **Cultural Shift:** The project raises awareness about driver fatigue, fostering safer driving habits and promoting a culture of responsibility on the road.
 
-![sales stat](Production_and_sales_of_new_vehicles_in_Morocco.png)
+![sales stat](SAFETY_DRIVING/Production_and_sales_of_new_vehicles_in_Morocco.png)
 
 ### **Proposed Solution:**
 Safety Driving is a two-pronged system that combines:
