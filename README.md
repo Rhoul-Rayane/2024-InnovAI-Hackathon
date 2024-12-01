@@ -1,4 +1,4 @@
-![safety driving logo](demo_video.jpg)
+![safety driving logo](SAFETY_DRIVING/demo_video.jpg)
 
 # **Safety Driving Project**
 
